@@ -2,6 +2,12 @@
 
 React Storybook decorator to center components.
 
+--- 
+
+**This repo has been deprecated because it's now included in https://github.com/storybooks/storybook**
+
+---
+
 ### Usage
 
 ```sh
